@@ -21,4 +21,3 @@ print(f'{division:.4f}')  # Exibir 4 casas decimais
 print(f'{number1:0<10}')  # Number deve conter 10 casas adicionando zeros a DIREITA
 print(f'{number1:0>10}')  # Number deve conter 10 casas adicionando zeros a ESQUERDA
 print(f'{name:X^100}')  # Adicionando BRUNNO AO CENTRO de X
-
