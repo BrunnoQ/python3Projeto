@@ -73,3 +73,20 @@ sx = {1, 2, 3, 4, 5, 6, 7}
 sy = {1, 2, 3, 4, 5, 6, }
 sCompare = sx - sy
 print(sCompare)
+
+"""
+Comprehension em python.
+Serve para melhor performance e escrever menos código"
+"""
+l1 = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+ex2 = [variavel * 2 for variavel in l1]  # Todos elementos multiplicados por 2
+print(ex2)
+l2 = ['Maristela', 'Maura', 'Maria']
+ex1 = [v.replace('a', '@') for v in l2]
+print(ex1)
+l3 = list(range(100))
+ex5 = [v for v in l3 if v % 2 == 0 and v % 10 == 0]
+print(ex5)
+
+ex6 = [v if v % 2 == 0 else 'NAO' for v in l3]  # PAra usar o ELSE
+print(ex6)
