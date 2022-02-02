@@ -90,3 +90,22 @@ print(ex5)
 
 ex6 = [v if v % 2 == 0 else 'NAO' for v in l3]  # PAra usar o ELSE
 print(ex6)
+n = 10
+string = '012345678901234567890123456789012345678901234567890123456789'
+lista = [string[i:i + n] for i in range(0, len(string), n)]
+retorno = '.'.join(lista)
+print(lista)
+print(retorno)
+
+"""
+Compreesion de dicionarios
+"""
+lista = [('chave1', 'valor1'), ('chave2', 'valor2')]
+d1 = dict(lista)
+print(type(d1))
+print(d1)
+d2 = {f'key{key}': value for key, value in lista}  # Compreesão
+print(type(d2))
+print(d2)
+set1 = {key for key in lista}
+print(set1)
