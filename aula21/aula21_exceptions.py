@@ -1,3 +1,4 @@
+import sys
 
 try:
     a = []
@@ -21,4 +22,5 @@ def divide(n1, n2):
         raise ValueError('N2 não pode ser ZERO!')
 
 
-print(divide(23, 0))
+print(divide(23, 1))
+print(sys.platform)
