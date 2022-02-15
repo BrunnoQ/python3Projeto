@@ -1,7 +1,12 @@
 from datetime import datetime
 from random import randint
 
+"""
+Encapsulamento no PYTHON só existe POR convenção!
+_ = protected NAO ACESSAR DIRETAMENTE
+__ = privado NAO ACESSAR DIRETAMENTE de forma ALGUMA
 
+"""
 class Pessoa:
     ano_atual = int(datetime.strftime(datetime.now(), '%Y'))  # atributo static
 
