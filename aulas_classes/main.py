@@ -1,7 +1,7 @@
 from pessoa import Pessoa
 
 p1 = Pessoa(nome='Carla', idade=26)
-p1.comer('Amora')
+p1.comer('Amoraw')
 p1.comer('Amora')
 
 print(Pessoa.ano_atual)
