@@ -28,7 +28,7 @@ def outra_funcao(msg):
 # fala_oi = master(fala_oi)  # Variavel é uma função
 
 fala_oi()
-outra_funcao('Ola senhora')
+outra_funcao('Ola senhorsesa')
 
 """
 Problemas dos parâmetros mutáveis (LISTAS e DICIONARIOS por exemplo) em funções
