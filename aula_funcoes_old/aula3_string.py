@@ -2,3 +2,6 @@
 print("This is an 'String'")  # Scape of characters
 print('This is an "String" too!')
 #Passando para relembrar, ja que faz tempo que nõa mexo... maravilha!
+#Get version of Python
+import sys
+print(sys.version)
