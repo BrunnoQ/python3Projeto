@@ -4,7 +4,7 @@ Aprender a criar funções decoradoras e decoradas
 """
 
 
-def master(funcao):
+def maas(funcao):
     def slave(*args, **kwargs):
         print('Estou decorada baby!')
         funcao(*args, **kwargs)  # Adicionando o () digo para o interpretador que isso é uma função! Tipagem dinâmica
@@ -14,12 +14,12 @@ def master(funcao):
 
 
 # PQP aí já demais, função decorada! TOPPP
-@master
+@maas
 def fala_oi():
     print('Oi')
 
 
-@master
+@maas
 def outra_funcao(msg):
     print(msg)
 
