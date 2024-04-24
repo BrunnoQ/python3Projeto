@@ -11,10 +11,10 @@ Documentação completa --> https://docs.python.org/3/reference/expressions.html
 """
 print("SUM: ", 10 + 10)
 print("SUBTRACTION: ", 10 - 10)
-print("Multiplication: ", 10 * 10)
+print("Multiplication: ", 10 * 10, end="\n")
 print("DIVISION: ", 10 / 10)
 print("WHOLE DIVISION: ", 15 // 2)
 print("Potentiation: ", 10 ** 2)
 print("precedence real: ", 5 + 2 * 10)
 print("precedence fake: ", (5 + 2) * 10)
-print("repeat 100x 'a': ", 100 * "A")  # Muito louco
+print("repeat 100x 'a': ", 100 * "A")  # Repete 100x a letra 'A'
