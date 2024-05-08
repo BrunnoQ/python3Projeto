@@ -10,7 +10,7 @@ imc = weight / height ** 2
 
 print(name, "tem", age, "de idade e seu imc é", imc)
 print(f'{name} tem {age} de idade e seu imc é {imc:.2f}')  # coisa linda!!!!
-print('{} tem {} de idade e seu imc é {}'.format(name, age, imc))  # Lixo VERBOSO!!!
+print('{} tem {} de idade e seu imc é {}'.format(name, age, imc))
 # Denifindo alias para variaveis posso repetir variaveis sem respeitar ordens!
 print('{xota} tem {x} de idade e seu imc é {z:.2f}'.format(xota=name, x=age, z=imc))
 print("tipo name", type(name))
