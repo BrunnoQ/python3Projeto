@@ -1,4 +1,66 @@
-# Notas de Inglês
+# Sumário
+
+1. [Introdução aos Verbos](#verbos)
+   - [Tipos de Verbos](#existem-3-tipos-verbais-em-inglês)
+2. [Simple Present](#simple-present)
+   - [Uso](#o-simple-present-é-usado-para-falar-de-ações-habituais-verdades-universais-e-situações-permanentes)
+   - [Exemplos](#examplos)
+3. [Simple Past](#simple-past)
+   - [Uso](#o-simple-past-é-usado-para-falar-de-ações-que-aconteceram-no-passado)
+   - [Examples](#examples)
+4. [Simple Future](#simple-future)
+   - [Uso](#o-simple-future-é-usado-para-falar-de-ações-que-acontecerão-no-futuro)
+   - [Examples](#examples-1)
+5. [Pronunciation](#pronunciation)
+6. [Pass of Verbs](#pass-of-verbs)
+   - [Regular Verbs](#regular-verbs-add--ed)
+   - [Irregular Verbs](#irregular-verbs-change-the-verb)
+   - [Examples](#examples-2)
+7. [Adjectives](#adjectives)
+   - [Comparatives](#comparatives)
+     - [Short Adjectives](#short-adjectivesadd--er-consoante--vogal--consoante)
+     - [Examples](#examples-3)
+     - [Long Adjectives](#long-adjectives-use-more)
+     - [Examples](#examples-4)
+     - [Irregular Adjectives](#irregular-adjectives)
+   - [Superlatives](#superlatives)
+     - [Short Adjectives](#short-adjectivesadd--est-consoante--vogal--consoante)
+     - [Examples](#examples-5)
+     - [Long Adjectives](#long-adjectives-use-the-most)
+     - [Examples](#examples-6)
+     - [Irregular Adjectives](#irregular-adjectives-1)
+8. [Diferença entre "Do" e "Make"](#diferença-entre-do-e-make)
+    - [Do](#do)
+      - [Pronouns com exemplos (Presente)](#pronouns-com-exemplos-presente)
+      - [Examples](#examples-7)
+      - [Pronouns com exemplos (Passado)](#pronouns-com-exemplos-passado)
+      - [Examples](#examples-8)
+      - [Pronouns com exemplos (Futuro)](#pronouns-com-exemplos-futuro)
+    - [Make](#make)
+      - [Pronouns com exemplos (Presente)](#pronouns-com-exemplos-presente-1)
+      - [Examples](#examples-9)
+      - [Pronouns com exemplos (Passado)](#pronouns-com-exemplos-passado-1)
+      - [Examples](#examples-10)
+      - [Examples fazer comida](#examples-fazer-comida)
+      - [Pronouns com exemplos (Futuro)](#pronouns-com-exemplos-futuro-1)
+9. [Sufixo de Palavras](#sufixo-de-palavras)
+10. [Gerúndio e Infinitivo](#gerúndio-e-infinitivo)
+    - [Gerúndio](#gerúndio)
+    - [Infinitivo](#infinitivo)
+11. [Vocabulário](#vocabulário)
+    - [Cores](#cores)
+    - [Números](#números)
+    - [Dias da Semana](#dias-da-semana)
+    - [Meses do Ano](#meses-do-ano)
+    - [Estações do Ano](#estações-do-ano)
+12. [Modal Verbs](#modal-verbs)
+13. [Expressing Opinions](#expressing-opinions)
+    - [Expressing Opinions](#expressing-opinions-expressando-opiniões)
+    - [Expressing Agreement](#expressing-agreement-expressando-concordância)
+    - [Expressing Disagreement](#expressing-disagreement-expressando-discordância)
+    - [Expressing Partial Agreement](#expressing-partial-agreement-expressando-concordância-parcial)
+
+
 
 # Verbos
 
@@ -446,5 +508,140 @@ Existe padrões de verbos que são seguidos por infinitivo.
 
 
 
+# Vocabulário
+
+## Cores
+| Cor | Tradução |
+| --- | --- |
+| Black | Preto |
+| Blue | Azul |
+| Brown | Marrom |
+| Green | Verde |
+| Grey | Cinza |
+| Orange | Laranja |
+| Pink | Rosa |
+| Purple | Roxo |
+
+## Números
+| Número | Tradução |
+| --- | --- |
+| One | Um |
+| Two | Dois |
+| Three | Três |
+| Four | Quatro |
+| Five | Cinco |
+| Six | Seis |
+| Seven | Sete |
+| Eight | Oito |
+| Nine | Nove |
+| Ten | Dez |
+| Eleven | Onze |
+| Twelve | Doze |
+| Thirteen | Treze |
+| Fourteen | Quatorze |
+| Fifteen | Quinze |
+| Sixteen | Dezesseis |
+
+## Dias da Semana
+| Dia | Tradução |
+| --- | --- |
+| Monday | Segunda-feira |
+| Tuesday | Terça-feira |
+| Wednesday | Quarta-feira |
+| Thursday | Quinta-feira |
+| Friday | Sexta-feira |
+| Saturday | Sábado |
+| Sunday | Domingo |
+
+## Meses do Ano
+| Mês | Tradução |
+| --- | --- |
+| January | Janeiro |
+| February | Fevereiro |
+| March | Março |
+| April | Abril |
+| May | Maio |
+| June | Junho |
+| July | Julho |
+| August | Agosto |
+| September | Setembro |
+| October | Outubro |
+| November | Novembro |
+| December | Dezembro |
+
+## Estações do Ano
+| Estação | Tradução |
+| --- | --- |
+| Spring | Primavera |
+| Summer | Verão |
+| Autumn | Outono |
+| Winter | Inverno |
+
+# Modal Verbs
+Os verbos modais são usados para expressar habilidades, pedidos, permissões, proibições, possibilidades, conselhos, obrigações, sugestões, entre outros.
+Carater de continuidade, passado e futuro.
+
+| Verbo | Tradução | Exemplo Presente | Exemplo Passado | Exemplo Futuro | Exemplo Gerúndio | Exemplo Infinitivo | Exemplo Negativo |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Can | Poder | I can speak English. | I could speak English. | I will can speak English. | I am can speak English. | I want to can speak English. | I can't speak English. |
+| Could | Poder | I could speak English. | I could speak English. | I could speak English. | I am could speak English. | I want to could speak English. | I couldn't speak English. |
+| May | Poder | I may speak English. | I might speak English. | I will may speak English. | I am may speak English. | I want to may speak English. | I may not speak English. |
+| Might | Poder | I might speak English. | I might speak English. | I might speak English. | I am might speak English. | I want to might speak English. | I might not speak English. |
+| Must | Dever | I must speak English. | I had to speak English. | I will must speak English. | I am must speak English. | I want to must speak English. | I must not speak English. |
+| Shall | Dever | I shall speak English. | I should speak English. | I will shall speak English. | I am shall speak English. | I want to shall speak English. | I shall not speak English. |
+| Should | Dever | I should speak English. | I should speak English. | I should speak English. | I am should speak English. | I want to should speak English. | I should not speak English. |
+| Will | Dever | I will speak English. | I would speak English. | I will will speak English. | I am will speak English. | I want to will speak English. | I will not speak English. |
+| Would | Dever | I would speak English. | I would speak English. | I would speak English. | I am would speak English. | I want to would speak English. | I would not speak English. |
+| Ought to | Dever | I ought to speak English. | I ought to speak English. | I ought to speak English. | I am ought to speak English. | I want to ought to speak English. | I ought not to speak English. |
+| Have to | Dever | I have to speak English. | I had to speak English. | I will have to speak English. | I am have to speak English. | I want to have to speak English. | I don't have to speak English. |
+| Need to | Dever | I need to speak English. | I needed to speak English. | I will need to speak English. | I am need to speak English. | I want to need to speak English. | I don't need to speak English. |
+| Would like | Dever | I would like to speak English. | I would like to speak English. | I would like to speak English. | I am would like to speak English. | I want to would like to speak English. | I would not like to speak English. |
+| Be able to | Dever | I am able to speak English. | I was able to speak English. | I will be able to speak English. | I am able to speak English. | I want to be able to speak English. | I am not able to speak English. |
+| Be allowed to | Dever | I am allowed to speak English. | I was allowed to speak English. | I will be allowed to speak English. | I am allowed to speak English. | I want to be allowed to speak English. | I am not allowed to speak English. |
+| Be supposed to | Dever | I am supposed to speak English. | I was supposed to speak English. | I will be supposed to speak English. | I am supposed to speak English. | I want to be supposed to speak English. | I am not supposed to speak English. |
+| Used to | Dever | I used to speak English. | I used to speak English. | I will used to speak English. | I am used to speak English. | I want to used to speak English. | I used not to speak English. |
 
 
+# Expressing Opinions
+## Expressing Opinions
+Expressar opiniões é uma parte importante da comunicação em inglês.
+
+### Expressing Opinions (Expressando Opiniões)
+| Expressão | Tradução |
+| --- | --- |
+| I think | Eu acho |
+| I believe | Eu acredito |
+| I feel | Eu sinto |
+
+### Examples
+    I think English is important.
+    I believe English is important.
+    I feel English is important.
+
+### Expressing Agreement (Expressando Concordância)
+| Expressão | Tradução |
+| --- | --- |
+| I agree | Eu concordo |
+| I think so | Eu acho que sim |
+| I believe so | Eu acredito que sim |
+
+### Examples
+    I agree with you.
+    I think so.
+    I believe so.
+
+### Expressing Disagreement (Expressando Discordância)
+| Expressão | Tradução |
+| --- | --- |
+| I disagree | Eu discordo |
+| I don't think so | Eu não acho que sim |
+| I don't believe so | Eu não acredito que sim |
+
+### Expressing Partial Agreement (Expressando Concordância Parcial)
+| Expressão | Tradução |
+| --- | --- |
+| I agree with you, but | Eu concordo com você, mas |
+| I think so, but | Eu acho que sim, mas |
+| I believe so, but | Eu acredito que sim, mas |
+
+### 
